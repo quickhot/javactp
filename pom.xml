@@ -32,7 +32,7 @@
     <scm>
         <connection>scm:git:git://github.com/quickhot/javactp.git</connection>
         <developerConnection>scm:git:ssh://github.com:quickhot/javactp.git</developerConnection>
-        <url>https://github.com/quickhot/javactp/tree/6.6.9</url>
+        <url>https://github.com/quickhot/javactp/tree/main</url>
     </scm>
 
 </project>
